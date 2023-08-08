@@ -11,7 +11,7 @@ It gives a good visualization to the mechanisms behind circuits using logic gate
 
 ## Implementation details
 Design of a digital logic simulator for a combinational circuit(using logic gates such as NOT , AND , OR , XOR , NOR , NAND , XNOR) in Python with HSpice circuit description file as input.
-Outputs for the circuit are determined by considering the whole circuit as a graph and leveling the graph.In this repo an example combinational logic circuit of HALF ADDER is used to check the logic simulator working
+Outputs for the circuit are determined by considering the whole circuit as a graph and leveling the graph.In this repo an example combinational logic circuit of FULL ADDER is used to check the logic simulator working
 
 ![logic_simulator](https://github.com/Pavanija/Digital_logic_simulator/assets/140067158/09c9e826-1bc9-4108-94ce-d56f33ec0549)
 ## Key concepts 
