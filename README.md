@@ -25,6 +25,9 @@ By organizing components into levels,  ensures dependencies are satisfied i.e, c
 Once the graph is leveled, starting from the input nodes and proceed through the levels, calculating the outputs of each component based on the inputs provided to them. 
 Since the components are organized in a way that ensures dependencies are satisfied, you can propagate the calculated outputs through the circuit to determine the final outputs.
 
+## Verification
+The accuracy of the  Logic Simulator output is verified by comparing its results with manual analysis output for combinational logc circuits. 
+The results ensured that the simulator functions correctly and produces expected results
 
 
 
