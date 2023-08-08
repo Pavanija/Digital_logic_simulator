@@ -1,1 +1,1 @@
-# Digital_logic_simulator
+# Digital_Logic_Simulator
